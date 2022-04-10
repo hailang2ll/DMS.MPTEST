@@ -1,0 +1,15 @@
+D:\gitme\DMS.MPTEST\DMS.MPTEST.Services\bin\Debug\net6.0\DMS.MPTEST.Services.deps.json
+D:\gitme\DMS.MPTEST\DMS.MPTEST.Services\bin\Debug\net6.0\DMS.MPTEST.Services.dll
+D:\gitme\DMS.MPTEST\DMS.MPTEST.Services\bin\Debug\net6.0\ref\DMS.MPTEST.Services.dll
+D:\gitme\DMS.MPTEST\DMS.MPTEST.Services\bin\Debug\net6.0\DMS.MPTEST.Services.pdb
+D:\gitme\DMS.MPTEST\DMS.MPTEST.Services\bin\Debug\net6.0\DMS.MPTEST.IServices.dll
+D:\gitme\DMS.MPTEST\DMS.MPTEST.Services\bin\Debug\net6.0\DMS.MPTEST.IServices.pdb
+D:\gitme\DMS.MPTEST\DMS.MPTEST.Services\obj\Debug\net6.0\DMS.MPTEST.Services.csproj.AssemblyReference.cache
+D:\gitme\DMS.MPTEST\DMS.MPTEST.Services\obj\Debug\net6.0\DMS.MPTEST.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitme\DMS.MPTEST\DMS.MPTEST.Services\obj\Debug\net6.0\DMS.MPTEST.Services.AssemblyInfoInputs.cache
+D:\gitme\DMS.MPTEST\DMS.MPTEST.Services\obj\Debug\net6.0\DMS.MPTEST.Services.AssemblyInfo.cs
+D:\gitme\DMS.MPTEST\DMS.MPTEST.Services\obj\Debug\net6.0\DMS.MPTEST.Services.csproj.CoreCompileInputs.cache
+D:\gitme\DMS.MPTEST\DMS.MPTEST.Services\obj\Debug\net6.0\DMS.MPTEST.Services.csproj.CopyComplete
+D:\gitme\DMS.MPTEST\DMS.MPTEST.Services\obj\Debug\net6.0\DMS.MPTEST.Services.dll
+D:\gitme\DMS.MPTEST\DMS.MPTEST.Services\obj\Debug\net6.0\ref\DMS.MPTEST.Services.dll
+D:\gitme\DMS.MPTEST\DMS.MPTEST.Services\obj\Debug\net6.0\DMS.MPTEST.Services.pdb
